@@ -1,4 +1,5 @@
 # Ecommerce-assessment
+In case image is not loading download it.
 
 <hr>
 
